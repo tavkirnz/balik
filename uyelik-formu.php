@@ -165,7 +165,7 @@
                 <div>
                     <div>
                         <div class="uyelik-impflex">
-                            <span>04</span><img src="assets/images/4.png" alt="">
+                            <span>04</span><img src="assets/images/7.png" alt="">
                         </div>
                     </div>
                     <div class="uyelik-altyazi">
