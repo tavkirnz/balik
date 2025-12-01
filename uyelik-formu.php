@@ -169,7 +169,7 @@
                         </div>
                     </div>
                     <div class="uyelik-altyazi">
-                        Yüzlerce Deniz Ürünü
+                        Güvenli Ödeme Sistemi İle
                     </div>
                 </div>
                 <div>
@@ -179,7 +179,7 @@
                         </div>
                     </div>
                     <div class="uyelik-altyazi">
-                        Yüzlerce Deniz Ürünü
+                        Bir gün sonra kapında
                     </div>
                 </div>
             </div>
